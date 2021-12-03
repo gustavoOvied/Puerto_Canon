@@ -371,6 +371,7 @@ footer {
     margin-top: 10px;
     margin-left: 20px;
     max-width: 140px;
+    color: #fff;
 }
 
 
@@ -527,7 +528,7 @@ footer {
 /* Celular gustavo */
 
    
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 450px) {
 
     .nav-main ul li {
         font-size: 10px;
